@@ -1,3 +1,6 @@
 This is a file just to test the functionalities of Git. 
 
 Thank you for visiting my page :)
+
+
+1. Testing
